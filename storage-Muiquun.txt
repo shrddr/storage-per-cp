@@ -1,0 +1,3 @@
+           cost  slots  profit
+Muiquun 1     4     16     4.0
+Muiquun 2     4     16     4.0

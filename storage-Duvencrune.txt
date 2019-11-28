@@ -1,0 +1,18 @@
+                        cost  slots    profit
+Khimut Lumber Camp 1-2    10     16  1.600000
+Duvencrune 2              10     16  1.600000
+Dormann Lumber Camp 2     10     16  1.600000
+Dormann Lumber Camp 1     10     16  1.600000
+Duvencrune 7              10     16  1.600000
+Duvencrune 9-2            10     16  1.600000
+Duvencrune 11-2            8     16  2.000000
+Duvencrune 11-1            8     16  2.000000
+Duvencrune 10              8     16  2.000000
+Duvencrune 1               8     16  2.000000
+Duvencrune 8               8     16  2.000000
+Duvencrune 6               8     16  2.000000
+Duvencrune 4               8     16  2.000000
+Duvencrune 3               8     16  2.000000
+Khimut Lumber Camp 1-1     8     16  2.000000
+Duvencrune 9-1             8     16  2.000000
+Duvencrune 5               6     16  2.666667

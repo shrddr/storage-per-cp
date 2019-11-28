@@ -1,0 +1,5 @@
+             cost  slots  profit
+Arehaza 1-2     4     13    3.25
+Arehaza 2-2     4     13    3.25
+Arehaza 1-1     1      5    5.00
+Arehaza 2-1     1      5    5.00

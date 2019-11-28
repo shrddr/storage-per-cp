@@ -1,0 +1,11 @@
+                       cost  slots  profit
+Barhan Farm 1-2           4      8   2.000
+Sand Grain Bazaar 2-2     4     11   2.750
+Sand Grain Bazaar 3-2     4     11   2.750
+Sand Grain Bazaar 2-3     8     23   2.875
+Sand Grain Bazaar 2-1     1      3   3.000
+Sand Grain Bazaar 3-1     1      3   3.000
+Barhan Farm 1-1           1      3   3.000
+Sand Grain Bazaar 1-3     8     25   3.125
+Sand Grain Bazaar 1-2     4     13   3.250
+Sand Grain Bazaar 1-1     1      5   5.000

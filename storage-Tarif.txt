@@ -1,0 +1,23 @@
+                     cost  slots    profit
+Ahto Farm 2             3      6  2.000000
+Shuri Farm 2            3      8  2.666667
+Kasula Farm 2           3      8  2.666667
+Tarif 1-4               7     19  2.714286
+Tarif 1-3               4     11  2.750000
+Tarif 2-2, 2F           4     11  2.750000
+Tarif 2-3               5     14  2.800000
+Splashing Point 2-2     2      6  3.000000
+Splashing Point 2-1     1      3  3.000000
+Splashing Point 1-2     2      6  3.000000
+Splashing Point 1-1     1      3  3.000000
+Tarif 2-2, 1F           2      6  3.000000
+Ahto Farm 1             1      3  3.000000
+Shuri Farm 1            1      3  3.000000
+Tarif 1-2               2      6  3.000000
+Tarif 1-1               1      3  3.000000
+Kasula Farm 4           2      6  3.000000
+Kasula Farm 3           1      3  3.000000
+Kasula Farm 1           1      3  3.000000
+Tarif 2-1, Rm. 2        2      6  3.000000
+Tarif 2-1, Rm. 1        1      3  3.000000
+Splashing Point 2-3     3     11  3.666667
