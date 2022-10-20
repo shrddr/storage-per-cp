@@ -1,1 +1,3 @@
-Calculates best housing to buy for storage purposes in BDO
+- Fetches housing data from bdocodex
+- Calculates best housing to buy for storage purposes
+- Don't need to run, output is in the text files
